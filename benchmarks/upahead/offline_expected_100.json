@@ -1,0 +1,8 @@
+{
+  "planner": ["Chennai Book Fair opens next week"],
+  "upAhead": ["IndiGo fare sale ends today", "Chennai Book Fair opens next week"],
+  "byCategory": {
+    "airlines": ["IndiGo fare sale ends today"],
+    "events": ["Chennai Book Fair opens next week"]
+  }
+}

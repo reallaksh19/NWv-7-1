@@ -1,0 +1,20 @@
+[
+  {
+    "title": "IndiGo fare sale ends today",
+    "description": "Book by tonight for Muscat flights",
+    "link": "https://example.com/offer-1",
+    "pubDate": "2024-11-26T06:00:00Z",
+    "source": "feed-url",
+    "category": "airlines",
+    "location": "Muscat"
+  },
+  {
+    "title": "Chennai Book Fair opens next week",
+    "description": "Annual book fair at YMCA grounds",
+    "link": "https://example.com/event-1",
+    "pubDate": "2024-11-26T08:00:00Z",
+    "source": "feed-url-2",
+    "category": "events",
+    "location": "Chennai"
+  }
+]
